@@ -10,7 +10,7 @@
     "arrow-parens": "off",
     "comma-dangle": "off",
     "require-jsdoc": "off",
-    "linebreak-style": "error"
+    "linebreak-style": "off"
   },
   "extends": [
     "eslint:recommended",
